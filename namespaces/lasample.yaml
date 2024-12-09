@@ -2,5 +2,5 @@ apiVersion: v1
 kind: Namespace
 metadata:
   labels:
-    name: srikanth
-  name: srikanth
+    name: srikanth1
+  name: srikanth1
